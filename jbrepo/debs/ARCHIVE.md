@@ -7,7 +7,7 @@
 | **Classic iOS** | 1.2 | `com.macciti.classicios` | Axel4 | Themes (SpringBoard) |
 | **ClassicWallPapers** | 1.0 | `com.macciti.classicwallpapers` | John Collins | Wallpaper |
 
-All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder.
+All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder. All information is pulled from them.
 
 ---
 
