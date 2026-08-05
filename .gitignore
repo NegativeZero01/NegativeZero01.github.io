@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+*~
+*.swp
+*.swo
+*.gz.tmp
+*.xz.tmp
+*.bz2.tmp
+.theos/
+packages/
+obj/
+
+*.sh
