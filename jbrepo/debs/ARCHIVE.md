@@ -17,7 +17,6 @@ All tweaks in this catalog can be downloaded directly from the `/debs/archive` f
 * **Author:** AhmadNagy (`ahmad.ios.tweaks@gmail.com`)
 * **Section:** Themes (SpringBoard)
 * **Architecture:** iphoneos-arm
-* **Dependencies:** `com.anemonetheming.anemone`
 
 **Description:**
 > iOS 6 on iOS 9
@@ -30,7 +29,6 @@ All tweaks in this catalog can be downloaded directly from the `/debs/archive` f
 * **Author:** Axel4 (`axel.new46@yahoo.com`)
 * **Section:** Themes (SpringBoard)
 * **Architecture:** iphoneos-arm
-* **Dependencies:** `com.anemonetheming.anemone`
 
 **Description:**
 > I miss my iPhone 3GS
@@ -43,7 +41,6 @@ All tweaks in this catalog can be downloaded directly from the `/debs/archive` f
 * **Author:** John Collins (`johnnycyrus10@gmail.com`)
 * **Section:** Wallpaper
 * **Architecture:** iphoneos-arm
-* **Dependencies:** `winterboard`
 
 **Description:**
 > This package includes the iOS 6 WallPapers.

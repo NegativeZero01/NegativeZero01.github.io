@@ -4,5 +4,3 @@ Version: 2
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: iOS tweaks archive
-Icon: https://negativezero01.github.io/jbrepo/sileo-featured.png
-
