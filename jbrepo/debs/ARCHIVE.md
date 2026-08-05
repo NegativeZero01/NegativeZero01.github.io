@@ -1,5 +1,5 @@
 # All Tweaks:
-> **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on [ios-repo-updates.com](https://www.ios-repo-updates.com) and paste the original package link into the Wayback Machine ([archive.org](https://archive.org)).
+> **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on https://www.ios-repo-updates.com/ and paste the original package link into the Wayback Machine at https://archive.org/
 
 | Tweak Name | Version | Bundle ID | Author | Section |
 | :--- | :--- | :--- | :--- | :--- |

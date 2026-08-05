@@ -1,10 +1,10 @@
 # This is the NegativeZero01 personal iOS jailbreak archive repository.  
-Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.github.io/jbrepo`)
+Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.github.io/jbrepo/`)
 
 
 ## Contents
-Tweaks in `me` are my own personal projects (coming ~~soon~~ some other time).  
-Tweaks in `archive` are free older tweaks, tweaks lost due to repositories going down, or ones generally difficult to find.
+Tweaks in `/debs/me` are my own personal projects (coming ~~soon~~ some other time).  
+Tweaks in `/debs/archive` are free older tweaks, tweaks lost due to repositories going down, or ones generally difficult to find.
 
 
 ## The Archive

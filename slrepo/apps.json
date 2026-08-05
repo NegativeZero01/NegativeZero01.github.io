@@ -1,0 +1,9 @@
+{
+  "name": "Zero's Sideloading Repo",
+  "identifier": "com.negativezero.sideload",
+  "subtitle": "Sideload IPAs",
+  "description": "iOS IPAs archive",
+  "iconURL": "https://negativezero01.github.io/slrepo/gicon.png",
+  "website": "https://negativezero01.github.io/",
+  "apps": []
+}

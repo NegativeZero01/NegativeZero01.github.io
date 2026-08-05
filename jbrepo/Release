@@ -1,6 +1,13 @@
-Origin: Zero's Repo
-Label: Zero's Repo
-Version: 2
+Origin: Zero's Jailbreak Repo
+Label: Zero's Jailbreak Repo
+Version: 3
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: iOS tweaks archive
+Suite: stable
+Codename: zero-ios
+Icon: https://negativezero01.github.io/jbrepo/sileo-featured.png
+SHA256:
+ 0c2103ba040256955f29adbf1df68c9ffe09e6d2b62d4e734fcdc44a68a6967b 1844 Packages
+ b2f53ceca7302a70791bb80a0100e85e4faf124322eb89b1ab7ccd12d7c25633 923 Packages.bz2
+ 7f231ae453e74d15b8b799ef0d34aa13100b1d9cf7891f23e43968e168bd629b 880 Packages.xz
