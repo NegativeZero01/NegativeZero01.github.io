@@ -3,6 +3,8 @@
 Classic iOS (com.macciti.classicios)	--	Axel4	--	1.2  
 ClassicWallPapers (com.macciti.classicwallpapers)	--	John Collins	--	1.0  
 
+All tweaks in this catalog can be downloaded from the /archive folder, or from their `Archived Download` links.  
+
 ----------------------------
 
 ## 6God (`v1.1`)  
