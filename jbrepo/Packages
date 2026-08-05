@@ -1,0 +1,50 @@
+Package: com.macciti.6god
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/archive/com.macciti.6god_1.1_iphoneos-arm.deb
+Size: 3414028
+MD5sum: b799bf124e8e8a78e270bf5a35eee0d0
+SHA1: 30093360e24d098cc833e2064baf47dac2adb41e
+SHA256: f042f5e03210722fffa17e5ed77e2800b8c1ab599cc2bcff113843f0f6f71cbf
+Section: Themes (SpringBoard)
+Description: iOS 6 on iOS 9
+Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
+Depiction: http://www.macciti.com/pages/6god/index.php
+Name: 6God
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+
+Package: com.macciti.classicios
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/archive/com.macciti.classicios_1.2_iphoneos-arm.deb
+Size: 8416916
+MD5sum: 96388662f5a9a7312f5639bb0a36cf10
+SHA1: b6c63aef2032340e8d80db7b8acaa5b39e7108ba
+SHA256: 3e2a353d22e8004c50b3f3932f7a1b015d5f904127922b6dc2e41ca8ca2cbef7
+Section: Themes (SpringBoard)
+Description: I miss my iPhone 3GS
+Author: Axel4 <axel.new46@yahoo.com>
+Depiction: http://www.macciti.com/pages/classicios/index.php
+Name: Classic iOS
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+
+Package: com.macciti.classicwallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Filename: ./debs/archive/com.macciti.classicwallpapers_1.0_iphoneos-arm.deb
+Size: 32396910
+MD5sum: 6b8b40f6acb2a1b8617b7def74ba814a
+SHA1: 5b2631db3bc55cf4a009a5890e5d53fe545846a2
+SHA256: dc932287e7cd29a28b9fbe554f53556862c7561f7071bf4439b7b43c21e945b7
+Section: Wallpaper
+Description: This package includes the iOS 6 WallPapers.
+Author: John Collins <johnnycyrus10@gmail.com>
+Depiction: http://www.macciti.com/pages/classicwallpapers/index.php
+Name: ClassicWallPapers
+

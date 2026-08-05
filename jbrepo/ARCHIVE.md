@@ -1,58 +1,51 @@
 # All Tweaks:
-6God (com.macciti.6god)	--	AhmadNagy	--	1.1  
-Classic iOS (com.macciti.classicios)	--	Axel4	--	1.2  
-ClassicWallPapers (com.macciti.classicwallpapers)	--	John Collins	--	1.0  
+> **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on [ios-repo-updates.com](https://www.ios-repo-updates.com) and paste the original package link into the Wayback Machine ([archive.org](https://archive.org)).
 
-All tweaks in this catalog can be downloaded from the /archive folder, or from their `Archived Download` links.  
+| Tweak Name | Version | Bundle ID | Author | Section |
+| :--- | :--- | :--- | :--- | :--- |
+| **6God** | 1.1 | `com.macciti.6god` | AhmadNagy | Themes (SpringBoard) |
+| **Classic iOS** | 1.2 | `com.macciti.classicios` | Axel4 | Themes (SpringBoard) |
+| **ClassicWallPapers** | 1.0 | `com.macciti.classicwallpapers` | John Collins | Wallpaper |
 
-----------------------------
+All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder.
 
-## 6God (`v1.1`)  
+---
 
-**Bundle ID:** com.macciti.6god  
-**Author:** AhmadNagy  
+## 6God (`v1.1`)
 
-<details>
-<summary><b>Description and Downloads</b></summary>  
+* **Bundle ID:** `com.macciti.6god`
+* **Author:** AhmadNagy (`ahmad.ios.tweaks@gmail.com`)
+* **Section:** Themes (SpringBoard)
+* **Architecture:** iphoneos-arm
+* **Dependencies:** `com.anemonetheming.anemone`
 
-Original Link: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.6god/com.macciti.6god_1.1_iphoneos-arm.deb  
-Archived Download: https://web.archive.org/web/20220721200259/http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.6god/com.macciti.6god_1.1_iphoneos-arm.deb  
+**Description:**
+> iOS 6 on iOS 9
 
-> Description: iOS 6 on iOS 9  
+---
 
-</details>
+## Classic iOS (`v1.2`)
 
-----------------------------
+* **Bundle ID:** `com.macciti.classicios`
+* **Author:** Axel4 (`axel.new46@yahoo.com`)
+* **Section:** Themes (SpringBoard)
+* **Architecture:** iphoneos-arm
+* **Dependencies:** `com.anemonetheming.anemone`
 
-## Classic iOS (`v1.2`)  
+**Description:**
+> I miss my iPhone 3GS
 
-**Bundle ID:** com.macciti.classicios  
-**Author:** Axel4  
+---
 
-<details>
-<summary><b>Description and Downloads</b></summary>  
+## ClassicWallPapers (`v1.0`)
 
-Original Link: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.classicios/com.macciti.classicios_1.2_iphoneos-arm.deb  
-Archived Download: https://web.archive.org/web/20221210002108/http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.classicios/com.macciti.classicios_1.2_iphoneos-arm.deb  
+* **Bundle ID:** `com.macciti.classicwallpapers`
+* **Author:** John Collins (`johnnycyrus10@gmail.com`)
+* **Section:** Wallpaper
+* **Architecture:** iphoneos-arm
+* **Dependencies:** `winterboard`
 
-> Description: I miss my iPhone 3GS  
+**Description:**
+> This package includes the iOS 6 WallPapers.
 
-</details>
-
-----------------------------
-
-## ClassicWallPapers (`v1.0`)  
-
-**Bundle ID:** com.macciti.classicwallpapers  
-**Author:** John Collins  
-
-<details>
-<summary><b>Description and Downloads</b></summary>  
-
-Original Link: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.classicwallpapers/com.macciti.classicwallpapers_1.0_iphoneos-arm.deb  
-Archived Download: https://web.archive.org/web/20220722092300/http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.classicwallpapers/com.macciti.classicwallpapers_1.0_iphoneos-arm.deb  
-> Description: This package includes the iOS 6 WallPapers.  
-
-</details>
-
-----------------------------
+---
