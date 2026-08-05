@@ -15,4 +15,4 @@ I do not claim ownership over any tweaks in `archive`.
 ## Takedowns And Information
 If you are the original developer of an archived tweak and wish for it to be removed, please contact me or open an issue, and I will remove it from the repository as soon as possible.
 
-See **ARCHIVE.md** for a catalog of every archived tweak. Some may contain extra information or the original (usually non-functional) download links.
+See **/debs/ARCHIVE.md** for a catalog of every archived tweak. Some may contain extra information or the original (usually non-functional) download links.
