@@ -20,3 +20,10 @@ I do not claim ownership over any apps in `archive`.
 If you are the original developer of an archived app and wish for it to be removed, please contact me or open an issue, and I will remove it from the repository as soon as possible.
 
 ~~See **/ipas/ARCHIVE.md** for a catalog of every archived app. Some may contain extra information.~~
+
+
+test table  
+
+| a | b |
+| :--- | :--- |
+| x | y |
