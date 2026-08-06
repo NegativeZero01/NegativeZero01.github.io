@@ -1,5 +1,5 @@
 # All Tweaks:
-> **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on https://www.ios-repo-updates.com/ and paste the original package link into the Wayback Machine at https://archive.org/
+> **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on https://www.ios-repo-updates.com/ and paste the original package link into the Wayback Machine at https://archive.org/  
 
 | Tweak Name | Version | Bundle ID | Author | Section |
 | :--- | :--- | :--- | :--- | :--- |
@@ -7,7 +7,7 @@
 | **Classic iOS** | 1.2 | `com.macciti.classicios` | Axel4 | Themes (SpringBoard) |
 | **ClassicWallPapers** | 1.0 | `com.macciti.classicwallpapers` | John Collins | Wallpaper |
 
-All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder. All information is pulled from them.
+All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder. All information is automatically pulled from them.
 
 ---
 
