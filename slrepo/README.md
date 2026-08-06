@@ -23,7 +23,6 @@ If you are the original developer of an archived app and wish for it to be remov
 
 
 test table  
-
 | a | b |
 | :--- | :--- |
 | x | y |
