@@ -1,10 +1,8 @@
 # This is the NegativeZero01 personal iOS IPA archive repository.  
 Repo link: https://negativezero01.github.io/slrepo/apps.json/ (`https://negativezero01.github.io/slrepo/apps.json`)  
-| Sideloading Tool | Deeplink |
-| :--- | :--- |
-| **SideStore** | [Add to SideStore](sidestore://source?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F) |
-| **AltStore** | [Add to AltStore](altstore://source?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F) |
-| **TrollApps** | [Add to TrollApps](trollapps://add?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F) |
+**SideStore:** [Add to SideStore](sidestore://source?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F)  
+**AltStore:** [Add to AltStore](altstore://source?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F)  
+**TrollApps:** [Add to TrollApps](trollapps://add?url=https%3A%2F%2Fnegativezero01.github.io%2Fslrepo%2Fapps.json%2F)  
 <sub>\*you can also add this repo to LiveContainer</sub>
 
 
