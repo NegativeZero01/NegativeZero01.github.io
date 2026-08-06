@@ -1,11 +1,9 @@
 # This is the NegativeZero01 personal iOS jailbreak archive repository.  
 Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.github.io/jbrepo`)  
-| Package Manager | Deeplink |
-| :--- | :--- |
-| **Sileo** | [Add to Sileo](sileo://source/https://negativezero01.github.io/jbrepo/) |
-| **Zebra** | [Add to Zebra](zbra://sources/add/https://negativezero01.github.io/jbrepo/) |
-| **Cydia** | [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/) |
-| **Saily** | [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/) |
+**Sileo:** [Add to Sileo](sileo://source/https://negativezero01.github.io/jbrepo/)  
+**Zebra:** [Add to Zebra](zbra://sources/add/https://negativezero01.github.io/jbrepo/)  
+**Cydia:** [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/)  
+**Saily:** [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/)
 
 
 ## Contents
