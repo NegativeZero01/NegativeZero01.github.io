@@ -22,7 +22,8 @@ If you are the original developer of an archived app and wish for it to be remov
 ~~See **/ipas/ARCHIVE.md** for a catalog of every archived app. Some may contain extra information.~~
 
 
-test table  
+test table
+
 | a | b |
 | :--- | :--- |
 | x | y |
