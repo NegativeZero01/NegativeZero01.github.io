@@ -4,6 +4,14 @@ Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.git
 **Zebra:** [Add to Zebra](zbra://sources/add/https://negativezero01.github.io/jbrepo/)  
 **Cydia:** [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/)  
 **Saily:** [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/)
+| PackageManager | Deeplink |
+| :--- | :--- |
+| **Sileo** | [Add to Sileo](sileo://source/https://negativezero01.github.io/jbrepo/) |
+| **Zebra** | [Add to Zebra](zbra://sources/add/https://negativezero01.github.io/jbrepo/) |
+| **Cydia** | [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/) |
+| **Saily** | [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/) |
+
+<sub>If the hyperlinks aren't clickable and you're viewing on github, try view from the site</sub>
 
 
 ## Contents
