@@ -1,5 +1,11 @@
 # This is the NegativeZero01 personal iOS jailbreak archive repository.  
-Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.github.io/jbrepo/`)
+Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.github.io/jbrepo`)  
+| Package Manager | Deeplink |
+| :--- | :--- |
+| **Sileo** | [Add to Sileo](sileo://source/https://negativezero01.github.io/jbrepo/) |
+| **Zebra** | [Add to Zebra](zbra://sources/add/https://negativezero01.github.io/jbrepo/) |
+| **Cydia** | [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/) |
+| **Saily** | [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/) |
 
 
 ## Contents
@@ -15,4 +21,4 @@ I do not claim ownership over any tweaks in `archive`.
 ## Takedowns And Information
 If you are the original developer of an archived tweak and wish for it to be removed, please contact me or open an issue, and I will remove it from the repository as soon as possible.
 
-See **/debs/ARCHIVE.md** for a catalog of every archived tweak. Some may contain extra information or the original (usually non-functional) download links.
+See **/debs/ARCHIVE.md** for a catalog of every archived tweak. Some may contain extra information.
