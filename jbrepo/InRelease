@@ -4,47 +4,47 @@ Hash: SHA512
 Architectures: iphoneos-arm iphoneos-arm64
 Codename: zero-ios
 Components: .
-Date: Fri, 07 Aug 2026 02:19:59 +0000
+Date: Fri, 07 Aug 2026 02:38:04 +0000
 Description: iOS tweaks archive
 Label: Zero's Jailbreak Repo
 Version: 4
 Origin: Zero's Jailbreak Repo
 Suite: stable
 MD5Sum:
- 4533114a28ed814f89b5c58d3e152c6a             2457 Packages
- 5ae711f49311d15e90c1c8fce25da729             1211 Packages.bz2
- e48bfc56b7c64bde02431add81af29ef             1152 Packages.xz
- d9ecf8c36a739eb53c0302388d50ec90             1853 Release
+ 5913ef046e6af6a8022eee19ccf39268             2508 Packages
+ 25dd0f6b66985e8efe375f18ed7ebb9d             1239 Packages.bz2
+ 7f3898c7bfbf7da18b1194dd931389a9             1180 Packages.xz
+ 09d719d330946114d2e99c60e1646347             1853 Release
 SHA1:
- 6da5896622de2529965b5630122789cd5de4a1db             2457 Packages
- 7776b7830497682fbd7a7eae3844da3c0aa87461             1211 Packages.bz2
- ad02dcea8487f38a99cbb0df58394ffbe1e7a525             1152 Packages.xz
- a4839f34a6912da5a0e432fa104c620100ac99c7             1853 Release
+ 274a7751cf9277164fc73381b22917e9189073eb             2508 Packages
+ 6dde9aa3fe13261b3799015af5bc7736bc922647             1239 Packages.bz2
+ 6377a21ce5b49ac184bfb62ae3282b042bdbb75d             1180 Packages.xz
+ 290e09249f03dc839c63b49c9daa80fb9c0e6647             1853 Release
 SHA256:
- c85e44e64c69f5af8719807e6ca0c630a9d63fe653b646c0fddbec7cd69d985c             2457 Packages
- d39c52005ac7835b5c3e04bc94b33f0511a857a2c03e256f14230763cbfb7afb             1211 Packages.bz2
- 0d85cb9c7cb1f4c007c3d21c6e51b132d3647c1f3d0cf883dfa00614c09b8822             1152 Packages.xz
- e6295c53ab9d5c084c3dc4ab3e6170c3f0ac3a32afa373bb88af19c29ae3d54f             1853 Release
+ e0df8102e11b18ec04de181da3b92c4dc8f839540b631c897d6c791c3292db66             2508 Packages
+ e1a7bf0fabcccf95aa38e3846160e741ec32ca80ce316101747ab4efcba93c76             1239 Packages.bz2
+ 81c5fc606cd1bda7bfb41337cf2b021c061d49cbb228cd1c074936faf1582125             1180 Packages.xz
+ f7d5fd07265c426f16a921d5f51c1e64bdca6636a4fa2a258ead901298c1a572             1853 Release
 SHA512:
- 01261d58a585978a0da3dae79ac55c990e36252e8d829a09f240c02ffce3204234abed03de738c5741a262d284bf7606ed20bfcb37fe360a969b2978fbccf54a             2457 Packages
- 70faafc71fa2a19e8ad2c190eb28d281ea6df684092d26593586fba7f4cc19f92603b418e77fd5c9d63df0de294b425e10c08f1e7c574b4732bf525a9ffb084f             1211 Packages.bz2
- ab6e8721dfcc627ec78f3dce797c00cac45110e7e886c0e41562b3aad8cab5ffe4be5f79d1a182628bf1f09ea2a1d6bd9d40e9da8093a44a3449961cd9045991             1152 Packages.xz
- de267439e9cda1b84d101a357cc44fa3015e3b2f51db3e3fd3f8995f80bcf06bb0ded8219e15742f4151d735443013d18c4217fd70b67f8394775ddd40428533             1853 Release
+ f076109a269399f7be8dda88cca5e617d31a6238766a9f54487b975bb37d5b946fe4f41d0c336099cbe817d25d65c7e49cfe01ca100dfd654b3d4d208a14cc1e             2508 Packages
+ 42cd3f7d631657eb0f3e1c2f468d665156cbadd40be3c9415b39445aebbda4f22aa6a957bd0e604a02f544a875452526dd1d9572c3adae9c5cca5afa06aad870             1239 Packages.bz2
+ 4f951272a75a32b09692c0b88719e00e2a613aa5b0b848ecbf350bca78756baff3b5e4593631a853cd36edb8a4b791644a077cb11a3caa56879917c1e3a3d135             1180 Packages.xz
+ e14993265d94417dda9bbfd6f59423c32b93554bf6dc85753aeb957ef72161c5ff15a80ceb5d5de733bbe8addf1c3a63f5f9cfbd98441947826c43fb683cc814             1853 Release
 Icon: https://negativezero01.github.io/jbrepo/sileo-featured.png
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjvPnI+aCAaHAWfyo77RDGHVXnzMFAmp1QNAACgkQ77RDGHVX
-nzP/mg//SzpCU53swlMdm/nlPDOUOoG+5FyWKW2ijMr6v/dLq6Uhmgdub47Z/fGC
-VNrDSPJhzgyOTZbFfg0m8xhBsXAGyCegmbUYPqfQBUzVXVoOLH/BoSGqWqLTNYoJ
-kbiseEVoWNta3WV9zREGoh0SzFTxuuMqPqUtwJ6CwsZHjzDWNt2jH9B0m+uf1b3Z
-lQA8MHiF+c6pI50Hf7hRYqIFJIHSPbb+n22QkjUZAuyhZauLOGX6afRbUra3U+i+
-Bzdmd732bUknbgC5md8vyK9gCH6C2D+LF1ZsYAiA48K+7qLNLNgzto/SOBDIedQM
-iVPNsFnvjoCeQlbk3Hx85CVjF98WiQ1gDfhfwMyJkJmNau0RXBZ0H9b4jQlBlTdv
-vtx7e4TqDIRD1I6nBEdamnYzy/0VRByXrH3V1ORsyOm3bkRxl1Wq6AKKdbIA1dWL
-SkEtD9Us28qSARS1J4lKEBB8hRYF0cj6BFM2+FwUZR+4KI83dJoZDXYhloXrFAqU
-ghW6YESVToTg1bfcE8B3u8gSEpX2bkKJ0lWHoH3PFjYO1KhMffXx1BW+tT3KfwQv
-rX4e9RqJiZDyQYOVKrsjGzZ7rrP+nyatTeJdvuHQDcd4NZwcix9kH0X2LsMLJ6yi
-x1soDfLdLHWS9tcRc9XyB2/eIcITogUhYQVLwRzB2S6u1uTsmJI=
-=M9sU
+iQIzBAEBCgAdFiEEjvPnI+aCAaHAWfyo77RDGHVXnzMFAmp1RQwACgkQ77RDGHVX
+nzPcYRAAwaUpVGd4WDISa6REgwZ4gjOOllKQmhhNTNeXDso2454P8O29DmA2fpw+
+R5/Y1IJ/e8N7fsSsRvDK5UJZuObETyBnBREDJr8f4Ir5rfv3xwMWr+rrimMEiaho
+Y2ld49Mk6mf43lQY2ofgx1KL9T6UXr4cMBprvop8wKg+z3HSQDIa+jCM1h9cQMUD
+yAeditnIEEp3f1+pjsFp5QTjP7i5pzjGhCIYr0UeGx1jLdOGbbSahcP62OJ6yKFu
+vcJ6V+KFw6G8vDiQlbK2IivMpCo21pI3cUw8UeDRWxWIeGMlID7pO33efDroFpqv
+/2UlwYej7ds3mpGzLK1HdMR8kKkd215UH0iXkfkKPyxJZtY+HuK8ChuK+1Kqg6GH
++vwA8jmyalkJy6db8Pz8J5Bish2K8KHhykcBcyyPGBx3AD7EkdD1TLLYFheHugvj
+PVYw8XqBdK54IWqgNLu8iGLqbsiyncfDReISFVyMfBhYrj2mOoAgGAOAIFGIs3hx
+BKf50mLlR8yVasuLn4/Eo/1t9SSjq/6EHy+xDX0OS/Uv85T7DtY5dIP8Yvn00pfv
+Kr+DfA6lq/1o67WKpWPV1TxHQT7hMcpL+M0qqGX37WovRJIL+S+9hmR9ARVZW9+8
+ztOc4Un3PJgQ9WPzwKX5qXH4F/J7MTEeqIjp8tqoqtpf8PXnNSM=
+=uzjy
 -----END PGP SIGNATURE-----

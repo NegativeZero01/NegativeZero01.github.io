@@ -1,0 +1,11 @@
+Package: com.negativezero.jailbreak.keyring
+Name: Zero's Repository Keyring
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Zero <nzrelay@icloud.com>
+Section: System
+Priority: optional
+Homepage: https://negativezero01.github.io/jbrepo/
+Description: Public signing key for Zero's jailbreak repository.
+ Installs the OpenPGP public key used by APT to verify packages
+ downloaded from Zero's jailbreak repository.

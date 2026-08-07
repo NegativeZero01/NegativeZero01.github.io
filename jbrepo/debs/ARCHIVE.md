@@ -1,4 +1,4 @@
-# All Tweaks:
+# Archived Tweaks
 > **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on https://www.ios-repo-updates.com/ and paste the original package link into the Wayback Machine at https://archive.org/
 
 
@@ -8,9 +8,8 @@
 | **6God** | 1.1 | `com.macciti.6god` | AhmadNagy | Themes (SpringBoard) |
 | **Classic iOS** | 1.2 | `com.macciti.classicios` | Axel4 | Themes (SpringBoard) |
 | **ClassicWallPapers** | 1.0 | `com.macciti.classicwallpapers` | John Collins | Wallpaper |
-| **Zero's Repository Keyring** | 2.0 | `com.negativezero.jailbreak.keyring` | Unknown | System |
 
-All tweaks in this catalog can be downloaded directly from the `/debs/archive` folder. All information is pulled from them.
+All packages listed here are available in the `archive/` directory. All information is automatically pulled from them.
 
 ---
 
@@ -50,20 +49,5 @@ All tweaks in this catalog can be downloaded directly from the `/debs/archive` f
 
 **Description:**
 > This package includes the iOS 6 WallPapers.
-
----
-
-## Zero's Repository Keyring (`v2.0`)
-
-* **Bundle ID:** `com.negativezero.jailbreak.keyring`
-* **Author:** Unknown
-* **Section:** System
-* **Architecture:** iphoneos-arm
-* **Depends:** `None`
-
-**Description:**
-> Public signing key for Zero's jailbreak repository.
-Installs the OpenPGP public key used by APT to verify packages
-downloaded from Zero's jailbreak repository.
 
 ---

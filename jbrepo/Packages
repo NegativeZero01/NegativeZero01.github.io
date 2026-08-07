@@ -52,13 +52,14 @@ Package: com.negativezero.jailbreak.keyring
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Zero <nzrelay@icloud.com>
-Filename: ./debs/me/com.negativezero.jailbreak.keyring_1.1_iphoneos-arm.deb
-Size: 3116
-MD5sum: 6e7bd40a49726ba9ccc45a286ab45abe
-SHA1: ff0f3f040804ba4749d766f410d7cbae43b6a2c4
-SHA256: 855ba3f6dd6db47d7d9e2aea146d4282c2d081da77730f826d0cd2639e196de5
+Filename: ./debs/me/com.negativezero.jailbreak.keyring_2.0_iphoneos-arm.deb
+Size: 3148
+MD5sum: 66a74027540937b479f77259332be8d3
+SHA1: c5a17080431ae19393c9ee7f292cdc1f55e52127
+SHA256: ddc0143a99bb4df1fccfcda3eef571b1d3e95a0b408152c87a7b9a0acf45481f
 Section: System
 Priority: optional
+Homepage: https://negativezero01.github.io/jbrepo/
 Description: Public signing key for Zero's jailbreak repository.
  Installs the OpenPGP public key used by APT to verify packages
  downloaded from Zero's jailbreak repository.
