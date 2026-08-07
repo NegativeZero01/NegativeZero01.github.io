@@ -1,33 +1,50 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
-Origin: Zero's Jailbreak Repo
-Label: Zero's Jailbreak Repo
-Version: 3
 Architectures: iphoneos-arm iphoneos-arm64
-Components: main
-Description: iOS tweaks archive
-Suite: stable
 Codename: zero-ios
-Icon: https://negativezero01.github.io/jbrepo/sileo-featured.png
+Components: .
+Date: Fri, 07 Aug 2026 02:19:59 +0000
+Description: iOS tweaks archive
+Label: Zero's Jailbreak Repo
+Version: 4
+Origin: Zero's Jailbreak Repo
+Suite: stable
+MD5Sum:
+ 4533114a28ed814f89b5c58d3e152c6a             2457 Packages
+ 5ae711f49311d15e90c1c8fce25da729             1211 Packages.bz2
+ e48bfc56b7c64bde02431add81af29ef             1152 Packages.xz
+ d9ecf8c36a739eb53c0302388d50ec90             1853 Release
+SHA1:
+ 6da5896622de2529965b5630122789cd5de4a1db             2457 Packages
+ 7776b7830497682fbd7a7eae3844da3c0aa87461             1211 Packages.bz2
+ ad02dcea8487f38a99cbb0df58394ffbe1e7a525             1152 Packages.xz
+ a4839f34a6912da5a0e432fa104c620100ac99c7             1853 Release
 SHA256:
- 514964f65bdc8eedbcb1784b6cb7c3104a3ec0845a1d0c8531a9e350e6f2977e 2334 Packages
- 0d921c9c5f4b5614083a3128e8efb49144501caef8176ebd6c31c97f9af94bf2 1146 Packages.bz2
- 6f33eb69d1cc4965519bccc5bc2ab254a18e174fa4fe0245cb8db0b3e04dbd20 1084 Packages.xz
+ c85e44e64c69f5af8719807e6ca0c630a9d63fe653b646c0fddbec7cd69d985c             2457 Packages
+ d39c52005ac7835b5c3e04bc94b33f0511a857a2c03e256f14230763cbfb7afb             1211 Packages.bz2
+ 0d85cb9c7cb1f4c007c3d21c6e51b132d3647c1f3d0cf883dfa00614c09b8822             1152 Packages.xz
+ e6295c53ab9d5c084c3dc4ab3e6170c3f0ac3a32afa373bb88af19c29ae3d54f             1853 Release
+SHA512:
+ 01261d58a585978a0da3dae79ac55c990e36252e8d829a09f240c02ffce3204234abed03de738c5741a262d284bf7606ed20bfcb37fe360a969b2978fbccf54a             2457 Packages
+ 70faafc71fa2a19e8ad2c190eb28d281ea6df684092d26593586fba7f4cc19f92603b418e77fd5c9d63df0de294b425e10c08f1e7c574b4732bf525a9ffb084f             1211 Packages.bz2
+ ab6e8721dfcc627ec78f3dce797c00cac45110e7e886c0e41562b3aad8cab5ffe4be5f79d1a182628bf1f09ea2a1d6bd9d40e9da8093a44a3449961cd9045991             1152 Packages.xz
+ de267439e9cda1b84d101a357cc44fa3015e3b2f51db3e3fd3f8995f80bcf06bb0ded8219e15742f4151d735443013d18c4217fd70b67f8394775ddd40428533             1853 Release
+Icon: https://negativezero01.github.io/jbrepo/sileo-featured.png
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEjvPnI+aCAaHAWfyo77RDGHVXnzMFAmp0Qq4ACgkQ77RDGHVX
-nzMX8RAAwFcd/99t1yi38p9aZ11tPuZva4QR7DVWdE72GTXBS5Ev78ZitdFfxa/u
-V18xaFjQCY8cEvNQuX+mGGEuCKpvz3OMxJVU2Y58KmqNi5e714k45FNYpEO4GWQ5
-epV+us72ThGEhY8sQECCMOz83QQGSBdeoYbWbwGGNk81ecedK3n6/SAH283Ffzwi
-QEwX+XLYDXMGB3gITvAeR/titDfWMKkSBz78aBitprw8K1lK6oINp6UePBNifdjj
-f+2NxWfDEySlyiyBrctpJvFVPZ8b95Q40joV8LPMc7dYIsAxs+FoMHL0O545wCB2
-75E6qra/TmiAJNAUaOQFXhWNs4ZkhltrQQOVpEJo66Ab5lVnQ+d6UMxKZe2mphDK
-MvqczIK36IgWIK7XIV5lgYPpZCnHYaiMaX31bwz9zibkwbi/KF+4viP3wYCgCvTF
-ejF78iZP662I13gTXzvofzh4z5jE8/HnOEU4w2Jo43HhAht0+NVPEZQjPNMrbHSG
-zaE6KMU6SVydVbvSkEqwoe2gVxKjDHLlQT9RnfgawDkRDHU7Hh4k681Z5F8zsRIx
-bXfgPr/YOWaXOhkneAug3VmrWsZAFYcMC/z5FrSPxxoSwr7wCErylD17HdAqhl2i
-TH2NOvA6W8yuhFAw6x3WnY5aYahiJNEq+Px6LlShL7fvBnB7Y1o=
-=iAV6
+iQIzBAEBCgAdFiEEjvPnI+aCAaHAWfyo77RDGHVXnzMFAmp1QNAACgkQ77RDGHVX
+nzP/mg//SzpCU53swlMdm/nlPDOUOoG+5FyWKW2ijMr6v/dLq6Uhmgdub47Z/fGC
+VNrDSPJhzgyOTZbFfg0m8xhBsXAGyCegmbUYPqfQBUzVXVoOLH/BoSGqWqLTNYoJ
+kbiseEVoWNta3WV9zREGoh0SzFTxuuMqPqUtwJ6CwsZHjzDWNt2jH9B0m+uf1b3Z
+lQA8MHiF+c6pI50Hf7hRYqIFJIHSPbb+n22QkjUZAuyhZauLOGX6afRbUra3U+i+
+Bzdmd732bUknbgC5md8vyK9gCH6C2D+LF1ZsYAiA48K+7qLNLNgzto/SOBDIedQM
+iVPNsFnvjoCeQlbk3Hx85CVjF98WiQ1gDfhfwMyJkJmNau0RXBZ0H9b4jQlBlTdv
+vtx7e4TqDIRD1I6nBEdamnYzy/0VRByXrH3V1ORsyOm3bkRxl1Wq6AKKdbIA1dWL
+SkEtD9Us28qSARS1J4lKEBB8hRYF0cj6BFM2+FwUZR+4KI83dJoZDXYhloXrFAqU
+ghW6YESVToTg1bfcE8B3u8gSEpX2bkKJ0lWHoH3PFjYO1KhMffXx1BW+tT3KfwQv
+rX4e9RqJiZDyQYOVKrsjGzZ7rrP+nyatTeJdvuHQDcd4NZwcix9kH0X2LsMLJ6yi
+x1soDfLdLHWS9tcRc9XyB2/eIcITogUhYQVLwRzB2S6u1uTsmJI=
+=M9sU
 -----END PGP SIGNATURE-----

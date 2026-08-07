@@ -49,15 +49,18 @@ Depiction: http://www.macciti.com/pages/classicwallpapers/index.php
 Name: ClassicWallPapers
 
 Package: com.negativezero.jailbreak.keyring
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Zero <nzrelay@icloud.com>
-Filename: ./debs/me/com.negativezero.jailbreak.keyring_1.0_iphoneos-arm.deb
-Size: 3048
-MD5sum: a96d1729e9547b1e6e4994bb4280578a
-SHA1: 5a411a8f6231da49c67d57fc723c8601c2a6d9d6
-SHA256: 1dc8093088b55e9e0023aff39ced2addf4a13d79169bf6de1e6bfc6e2d1e412a
+Filename: ./debs/me/com.negativezero.jailbreak.keyring_1.1_iphoneos-arm.deb
+Size: 3116
+MD5sum: 6e7bd40a49726ba9ccc45a286ab45abe
+SHA1: ff0f3f040804ba4749d766f410d7cbae43b6a2c4
+SHA256: 855ba3f6dd6db47d7d9e2aea146d4282c2d081da77730f826d0cd2639e196de5
 Section: System
-Description: GPG Public Key for verifying Zero's Jailbreak Repository.
+Priority: optional
+Description: Public signing key for Zero's jailbreak repository.
+ Installs the OpenPGP public key used by APT to verify packages
+ downloaded from Zero's jailbreak repository.
 Name: Zero's Repository Keyring
 
