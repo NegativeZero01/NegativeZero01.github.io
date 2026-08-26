@@ -8,7 +8,7 @@ Repo link: https://negativezero01.github.io/jbrepo/ (`https://negativezero01.git
 | **Cydia** | [Add to Cydia](cydia://url/https://negativezero01.github.io/jbrepo/) |
 | **Saily** | [Add to Saily](apt-repo://https://negativezero01.github.io/jbrepo/) |
 
-<sub>If the hyperlinks aren't clickable and you're viewing on github, try view from the site</sub>
+<sub>If the hyperlinks aren't clickable and you're viewing on GitHub, try view from the site</sub>
 
 
 ## Contents
