@@ -12,3 +12,4 @@ packages/
 obj/
 
 *.hide.*
+.venv/

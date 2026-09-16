@@ -49,14 +49,14 @@ Depiction: http://www.macciti.com/pages/classicwallpapers/index.php
 Name: ClassicWallPapers
 
 Package: com.negativezero.jailbreak.keyring
-Version: 2.0
+Version: 3.0
 Architecture: iphoneos-arm
-Maintainer: Zero <nzrelay@icloud.com>
-Filename: ./debs/me/com.negativezero.jailbreak.keyring_2.0_iphoneos-arm.deb
-Size: 3148
-MD5sum: 66a74027540937b479f77259332be8d3
-SHA1: c5a17080431ae19393c9ee7f292cdc1f55e52127
-SHA256: ddc0143a99bb4df1fccfcda3eef571b1d3e95a0b408152c87a7b9a0acf45481f
+Maintainer: Zero <182457445+NegativeZero01@users.noreply.github.com>
+Filename: ./debs/me/com.negativezero.jailbreak.keyring_3.0_iphoneos-arm.deb
+Size: 2080
+MD5sum: bdd681915ae1a999205659964c13a65a
+SHA1: e141ec2eb50f187ff18c8e1f9657bc813c108282
+SHA256: 29071c6d755c86aad3bb8cdb17cd5577333b75b82e4165284912b96edc3f8d68
 Section: System
 Priority: optional
 Homepage: https://negativezero01.github.io/jbrepo/

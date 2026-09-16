@@ -1,8 +1,8 @@
 Package: com.negativezero.jailbreak.keyring
 Name: Zero's Repository Keyring
-Version: 2.0
+Version: 3.0
 Architecture: iphoneos-arm
-Maintainer: Zero <nzrelay@icloud.com>
+Maintainer: Zero <182457445+NegativeZero01@users.noreply.github.com>
 Section: System
 Priority: optional
 Homepage: https://negativezero01.github.io/jbrepo/

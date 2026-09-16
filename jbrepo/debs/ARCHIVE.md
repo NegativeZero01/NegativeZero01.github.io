@@ -1,8 +1,6 @@
 # Archived Tweaks
 > **Archival Note:** Original repository links have been omitted. To locate archived .deb files independently, you can search for packages on https://www.ios-repo-updates.com/ and paste the original package link into the Wayback Machine at https://archive.org/
 
-
-
 | Tweak Name | Version | Bundle ID | Author | Section |
 | :--- | :--- | :--- | :--- | :--- |
 | **6God** | 1.1 | `com.macciti.6god` | AhmadNagy | Themes (SpringBoard) |
